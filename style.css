@@ -1,0 +1,37 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}#top-header {
+    text-align: center;
+    background-color:orangered;
+    height: 80px;
+    padding: 5px 5px 5px 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+
+span {
+    color: red;
+}
+.top{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+   
+}
+.half-width img {
+    width: 80%;
+}
+.order-button {
+    text-decoration: none;
+    background-color: orangered;
+     padding: 8px 30px;
+     border-radius: 5px;
+     color: white;
+     font-weight: 700;
+    }
