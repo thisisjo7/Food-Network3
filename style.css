@@ -4,7 +4,7 @@ body {
     margin: 0;
 }#top-header {
     text-align: center;
-    background-color:orangered;
+    background-color:tomato;
     height: 80px;
     padding: 5px 5px 5px 5px;
     font-family: Arial, Helvetica, sans-serif;
@@ -29,7 +29,7 @@ span {
 }
 .order-button {
     text-decoration: none;
-    background-color: red;
+    background-color:orangered;
      padding: 7px 25px;
      border-radius: 4px;
      color: white;
@@ -64,4 +64,12 @@ span {
     }
     .recipe-link {
         text-decoration: none;
+    }
+    #Footer-section {
+        background-color: slategrey;
+        text-align: center;
+        padding: 2px ;
+    }
+    #food-word {
+        color:orange;
     }
