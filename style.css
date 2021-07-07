@@ -38,4 +38,11 @@ span {
     .mid {
         display: flex;
         background-image: url(images/shapes/Frame\ 58.jpg);
+        margin-bottom: 120px;
+    }
+    #our-recipes {
+        margin-bottom: 50px;
+    }
+    .recipe {
+        text-align: center;
     }
